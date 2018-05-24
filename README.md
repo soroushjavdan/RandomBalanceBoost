@@ -1,4 +1,4 @@
-# RandomBalance
+# RandomBalanceBoost
 Implementation of Random Balance Boost algorithm
 
 Description
